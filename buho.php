@@ -2,11 +2,13 @@
 
 /*
 Plugin Name: Buho - Botón modo oscuro
-Description: Buho es mi primer complemento de wordpress de codigo abierto para ser mejorado por la comunidad.
+Plugin URI: https://github.com/soyleroy/buhoWP.git
+Description: Buho es mi primer plugin de wordpress para activar el dark mode un tu sitio web, de codigo abierto para ser mejorado por la comunidad.
 Version: 1.0
 Author: Mellamanlero
-Author URI: https://github.com/soyleroy/buho.git
+Author URI: https://github.com/mellamanlero
 License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: buho
 */
 
